@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booked events</title>
+    <style>
+        input{
+          
+          padding:0px 45%;
+           font-size: 25px;
+      
+        }
+        .table-box{
+            margin:50px auto;
+        }
+        .table-row{
+            display: table;
+           width: 80%;
+           margin:10px auto;
+            font-family:sans-serif;
+            background-color: transparent;
+            padding:12px 0;
+            color:#555;
+            font-size: 13px;
+            box-shadow: 0 1px 4px 0 rgba(0,0,50,0.3);
+        }
+        .table-cell{
+            display:table-cell;
+            width:30%;
+            text-align: center;
+            padding:4px 0;
+            border-right: 1px solid #d6d;
+            vertical-align: middle;
+            font-size: 15px;
+            /* color black ki zarurat nahi hoti, cuz it's the default ha ik maine aise hi add kar diya  */
+            color: black; 
+           font-family: 'Times New Roman', Times, serif;
+           
+        }
+    .table-head {
+        background-color: rgb(235, 21, 235);
+        color: white;
+    }
+    /* Yeh acha lag raha hain na?, yes, I was just telling you the function ha i understood 
+    bas confirm kar rahi thi bcz yeh maine tuje nhi dikhaya tha shayad, it's great */
+    </style>
+</head>
+<body >
+   
+   
+   <div class="table-box">
+    <input text="text" placeholder="Search Your Bookings">
+    <div class="table-row table-head">
+        <div class="table-cell">
+            <h3>Name</h3>
+        </div>
+        <div class="table-cell">
+            <h3>Event</h3>
+        </div>
+        <div class="table-cell">
+            <h3>Date</h3>
+        </div>
+        <div class="table-cell">
+            <h3>Time</h3>
+        </div>
+    </div>
+    <div class="table-row">
+        <div class="table-cell">
+            <h3>Divya Gandhi</h3>
+        </div>
+        <div class="table-cell">
+            <h3 class="event-filter">AIML</h3>
+        </div>
+        <div class="table-cell">
+            <h3>24th August </h3>
+        </div>
+        <div class="table-cell">
+            <h3>4pm</h3>
+        </div>
+    </div>
+    <div class="table-row">
+        <div class="table-cell">
+            <h3>Moksh Shetty</h3>
+        </div>
+        <div class="table-cell">
+            <h3 class="event-filter">C.P</h3>
+        </div>
+        <div class="table-cell">
+            <h3>26th August</h3>
+        </div>
+        <div class="table-cell">
+            <h3>1pm</h3>
+        </div>
+    </div>
+    <div class="table-row">
+        <div class="table-cell">
+            <h3>Rohan Desai</h3>
+        </div>
+        <div class="table-cell">
+            <h3 class="event-filter">IOT</h3>
+        </div>
+        <div class="table-cell">
+            <h3>26th August </h3>
+        </div>
+        <div class="table-cell">
+            <h3>7pm</h3>
+        </div>
+    </div>
+    <div class="table-row">
+        <div class="table-cell">
+            <h3>Keshvi Dobaria</h3>
+        </div>
+        <div class="table-cell">
+            <h3 class="event-filter">Web Dev</h3>
+        </div>
+        <div class="table-cell">
+            <h3>24th August </h3>
+        </div>
+        <div class="table-cell">
+            <h3>1pm</h3>
+        </div>
+    </div>
+    <div class="table-row">
+        <div class="table-cell">
+            <h3>Seeta Iyer</h3>
+        </div>
+        <div class="table-cell">
+            <h3 class="event-filter">App Dev</h3>
+        </div>
+        <div class="table-cell">
+            <h3>31st August </h3>
+        </div>
+        <div class="table-cell">
+            <h3>7pm</h3>
+        </div>
+    </div>
+    
+    </div>
+   </div> 
+   <script>
+   
+    const searchInput = document.querySelector('input');
+    
+    const tableRows = document.querySelectorAll('.table-row:not(.table-head)');
+    searchInput.addEventListener('input', function () {
+        const searchQuery = searchInput.value.toLowerCase();
+        tableRows.forEach((row, index) => {
+            const eventName = row.querySelector('h3.event-filter').textContent.toLowerCase();
+            row.style.display = eventName.includes(searchQuery)   ? 'flex' : 'none';//if string includes the input than show             // Bataya tha na, if the string eventName "includes" the se ok aur yeh jo index hain wo app web uske index hain na?
+          
+        
+        });
+    });
+</script>
+</body>
+</html>
