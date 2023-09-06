@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment details</title>
+   <style>
+   
+   
+    .pay h1{
+        padding:20px;
+        text-align:center ;
+    }
+    .check{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+        background-color: white;
+        padding:10px;
+        
+       }
+       button{
+        font-size: 30px;
+       }
+       h1{
+        font-size: 25px;
+        text-align: center;
+       }
+       .main{
+        display: flex;
+        flex-direction: column;
+        gap:0px;
+        background-color: white;
+        min-width: 100vw;
+       }
+       .cards{
+        display: flex;
+      justify-content: space-evenly;
+    
+
+       }
+      .block{
+        display: flex;
+        flex-direction: column;
+        gap:30px;
+      }
+     
+      .first{
+    padding-top: 20px;
+        display: flex;
+       justify-content: space-evenly;
+     
+      }
+      
+      input{
+        font-size: 25px;
+      }
+      
+     .center-button{
+       text-align: center;
+       padding-top: 50px;
+
+      }
+     .center-button button{
+        background-color: blueviolet;
+      }
+      
+      @media screen and (max-width:1000px) {
+        img{
+          max-width:180px;
+        }
+        input{
+        font-size: 15px;
+      }
+      }
+     @media  screen and (max-width:500px) {
+      img{
+        max-width: 450px;
+      }
+      .cards{
+        display: flex;
+        flex-direction:column ;
+        justify-content: center;
+        gap:50px;
+        margin-left: auto;
+        margin-right:auto;
+        transition: 1s;
+       }
+       
+       .first{
+    padding-top: 20px;
+        display: flex;
+        flex-direction: column;
+        gap:30px
+     
+      }
+     }
+    
+   </style>
+</head>
+<body bgcolor="pink">
+    <div class="pay">
+        <h1>Payment</h1>
+    </div>
+    <div class="main">
+    <div class="check" >
+        
+        <button id="minus">-</button>
+        <button id="zero">0</button>
+        <button id="plus">+</button>
+    </div>
+    <h1>Your tickets at present <span id="abc"> 0 </span> and amount is <span id="d">0</span>$ </h1>
+    </div>
+    
+    <div class="pink">
+        <h1>Payment Method</h1>
+    </div>
+    <div class="cards">
+        
+       
+        <img src ="https://tse2.explicit.bing.net/th?id=OIP.qmQYyj1ByR7si4njwyQLDgHaEK&pid=Api&P=0&h=180" id="imp">
+        <img src="https://tse1.mm.bing.net/th?id=OIP.XsFNoHxJgvzMPJtSxEGj-AHaEK&pid=Api&P=0&h=180">
+        <img src="https://tse4.mm.bing.net/th?id=OIP.YqIo4nr1_NAt0AlapqP3TAHaFj&pid=Api&P=0&h=180">
+        <img src="https://tse2.mm.bing.net/th?id=OIP.A3zYjNbDwlz6QKF58zUTPgHaEh&pid=Api&P=0&h=180">
+    </div>
+    <div class="block">
+  <form class="first">
+   
+    <input type="email" name="email" placeholder="email address" required>
+    <input type="number" name="cardNo" placeholder="Credit No.: XXXX XXXX XXXX XXXX" required>
+    <input type="text"  name="date" placeholder="expiry date" required>
+    <input type="number"  placeholder="CV" required><br>
+    
+  </form>
+  
+  </div>
+
+   <div class="center-button">
+    <button id="btn">Pay Now</button>
+   </div>
+  
+   <script src="why.js"></script>
+</body>
+</html>

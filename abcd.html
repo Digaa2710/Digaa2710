@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning</title>
+    <style>
+       .check{
+        display:flex;
+        flex-direction: row;
+       }
+       button{
+        font-size: 25px;
+       }
+    </style>
+</head>
+<body>
+    <div class="check" >
+        
+        <button id="minus">-</button>
+        <button id="zero">0</button>
+        <button id="plus">+</button>
+    </div>
+    <p >Your tickets at present <span id="abc"> 0 </span> and amount is <span id="d">0</span> </p>
+    <script>
+        const plusBtn=document.getElementById('plus')
+        const zeroBtn=document.getElementById ('zero')
+        const minusBtn=document.getElementById ('minus')
+        const ticketCountDisplay = document.getElementById('zero');
+        const para=document.getElementById('abc')
+        const amounts=document.getElementById('d')
+        let ticketCount=0
+        let amount=300
+    plusBtn.addEventListener('click',()=>{
+        
+        ticketCount++;
+    ticketCountDisplay.textContent=ticketCount
+    para.textContent=ticketCount 
+    amounts.textContent=amount*ticketCount
+        })
+        minusBtn.addEventListener('click',()=>{
+            if(ticketCount>0){
+                ticketCount--;
+                ticketCountDisplay.textContent=ticketCount;
+                para.textContent=ticketCount
+                amounts.textContent=amount*ticketCount
+            }
+            
+        })
+    </script>
+</body>
+</html>
