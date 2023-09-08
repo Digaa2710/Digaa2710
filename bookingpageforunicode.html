@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Payment Page</title>
+  <style>
+    body{
+      background-color: gray;
+    }
+    .block{
+      display: flex;
+      gap:70px;
+      margin:50px auto;
+      max-width: 800px;
+      background-color: white;
+      padding: 40px;
+    }
+    .main1{
+      display:flex;
+      flex-direction: column;
+      gap:20px;
+    
+    }
+    input{
+      max-width: 500px;
+    }
+    .main2{
+      display:flex;
+      gap:30px;
+    }
+    .mini,.mini2{
+      display: flex;
+      flex-direction: column;
+      gap:5px;
+    }
+    .mini3{
+      display: flex;
+
+    }
+    button{
+      font-size: 40px;
+    }
+    .main1 button{
+      font-size: 20px;
+      background-color: aqua;
+    }
+    .main4{
+      display: inline-flex;
+      flex-direction: column;
+      max-width: 300px;
+      box-shadow: 0 0 20px gray;
+      padding: 20px;
+    }
+    @media screen and (max-width: 700px) {
+    .block {
+        flex-direction: column;
+        align-items: center;
+     
+    }
+}
+  </style>
+</head>
+<body>
+  <div class="block">
+    <div class="main1">
+      <h1>Payment details</h1>
+      <h3>Email address</h3>
+      <input text="Email" placeholder="email">
+      <h3>Credit Card Number</h3>
+      <input text="Number" placeholder="XXXX XXXX XXXX XXXX">
+      <div class="main2">
+        
+         
+         <div class="mini">
+          <h3>Expiry Date</h3>
+          <input text="Date" placeholder="Date">
+      </div>
+      <div class="mini1">
+        <h3>CVV</h3>
+        <input text="Number" placeholder="XXX">
+      </div>
+    </div>
+      <div class="mini3">
+        <button id="minus">-</button>
+        <button id="zero">0</button>
+        <button id="plus">+</button>
+    
+    </div>
+    <h3>Your tickets at present <span id="abc"> 0 </span> and amount is <span id="d">0</span>$ </h3>
+    <button id="btn">Pay Now</button>
+    </div>
+    <div class="main4">
+      <img src="https://tse3.explicit.bing.net/th?id=OIP.G_xM9-7JIpPVj7PpEa8k7AHaE_&pid=Api&P=0&h=180">
+    <h3>-Saves Your Money And Helps In Investment
+    </h3> 
+    <h3>-Easy To Pay And Accepts Offline As Well As Online payment</h3> 
+    <h3>-First 100 Customers Will Get Cash Prizes Upto 2500$ With Various More Exclusive Gift</h3>
+    <h3>-You Also Get 2OGB Free</h3>
+    </div>
+  </div>
+  <script src="why.js"></script>
+</body>
+</html>
