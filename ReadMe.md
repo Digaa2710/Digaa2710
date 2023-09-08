@@ -16,7 +16,7 @@
 - Basic Javascript 
 
 ## My Motivation
-- To be a very good software and bring some change in this world
+- To be a very good software engineer and bring some change in this world
 - To develop as many skills as I can
 
 
