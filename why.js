@@ -8,7 +8,7 @@ const para=document.getElementById('abc')
 const amounts=document.getElementById('d')
 const btns=document.getElementById('btn')
 let ticketCount=0
-let amount=300
+let amount=100
 plusBtn.addEventListener('click',()=>{
 
 ticketCount++;
