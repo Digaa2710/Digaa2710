@@ -4,8 +4,8 @@
 - Myself Divya Gandhi an pursuing Computer Engineering Student .
 - I am currently working to become a frontend developer 
 ## My education status
--SSC percentage 95.2%
--HSC percentage 84.5%
+- SSC percentage 95.2%
+- HSC percentage 84.5%
 - First year pass out with 9.525 CGPA
  
 ## My current skills 
@@ -21,7 +21,6 @@
 
 
 ### My project images 
-![This is an image](something.png)
 ![This is an image](task.png)
 ![This is an image](filter.png)
 ![This is an image](bookingpage.png)
