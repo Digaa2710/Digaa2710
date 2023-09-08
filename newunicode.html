@@ -145,7 +145,7 @@
     const tableRows = document.querySelectorAll('.table-row:not(.table-head)');
     searchInput.addEventListener('input', function () {
         const searchQuery = searchInput.value.toLowerCase();
-        tableRows.forEach((row, index) => {
+        tableRows.forEach(row => {
             const eventName = row.querySelector('h3.event-filter').textContent.toLowerCase();
             row.style.display = eventName.includes(searchQuery)   ? 'flex' : 'none';//if string includes the input than show             // Bataya tha na, if the string eventName "includes" the se ok aur yeh jo index hain wo app web uske index hain na?
           
