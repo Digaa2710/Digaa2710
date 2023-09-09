@@ -1,7 +1,7 @@
 # My repo
 
 ## 
-- Myself Divya Gandhi an pursuing Computer Engineering Student .
+- Myself Divya Gandhi a Computer Engineering pursuing Student .
 - I am currently working to become a frontend developer 
 ## My education status
 - SSC percentage 95.2%
@@ -16,7 +16,7 @@
 - Basic Javascript 
 
 ## My Motivation
-- To be a very good software and bring some change in this world
+- To be a very good software engineer and bring some change in this world
 - To develop as many skills as I can
 
 
