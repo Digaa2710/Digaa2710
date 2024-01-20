@@ -13,7 +13,9 @@
 - Java(Programming language)
 - HTML
 - CSS
-- Basic Javascript 
+- Javascript
+- React js
+- Python(Programming language)
 
 ## My Motivation
 - To be a very good software engineer and bring some change in this world
