@@ -16,6 +16,11 @@
 - Javascript
 - React js
 - Python(Programming language)
+- Tailwind CSS
+- Numpy
+- Pandas
+- Matplotlib
+- SQL
 
 ## My Motivation
 - To be a very good software engineer and bring some change in this world
