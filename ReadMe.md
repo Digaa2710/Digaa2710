@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [divyagandhi274@gmail.com](mailto:divyagandhi274@gmail.com )
-* 🧠  I'm learning Django, Data Analysis
+* 🧠  I'm learning  Data Analysis,ML
 * 🤝  I'm open to collaborating on Frontend development projects
 
 <a href="https://www.github.com/Digaa2710" target="_blank" rel="noreferrer"><img
