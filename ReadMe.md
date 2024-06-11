@@ -25,6 +25,7 @@ src="https://img.shields.io/github/followers/Digaa2710?logo=github&style=for-the
 <a href='https://matplotlib.org/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png' height='36' width='36'></a>
 <a href='https://colab.google/'><img src='https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies-thumbnail.png' height='36' weight='36'></a>
 <a href ='https://www.typescriptlang.org/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png' height='36' weight='36'></a>
+<a href='https://nextjs.org/'><img src='https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png' height='36' width='36'></a>
 
 
 
