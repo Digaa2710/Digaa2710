@@ -15,6 +15,23 @@ src="https://img.shields.io/github/followers/Digaa2710?logo=github&style=for-the
 ### Skills
 
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Divya Gandhi
+====================================================================================================================================
+
+MERN Stack Developer
+------------------
+
+* 🌍  I'm based in Mumbai
+* ✉️  You can contact me at [divyagandhi274@gmail.com](mailto:divyagandhi274@gmail.com )
+* 🧠  I'm learning  Data Analysis,ML
+* 🤝  I'm open to collaborating on Frontend development projects
+
+<a href="https://www.github.com/Digaa2710" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Digaa2710?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -41,6 +58,28 @@ src="https://img.shields.io/github/followers/Digaa2710?logo=github&style=for-the
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%2337768F.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Digaa2710" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Digaa2710&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+## My GitHub Stats
+
+<a href="http://www.github.com/Digaa2710"><img src="https://github-readme-stats.vercel.app/api?username=Digaa2710&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Digaa2710's GitHub stats" /></a>
+
+<a href="http://www.github.com/Digaa2710"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Digaa2710&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Digaa2710" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digaa2710&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
