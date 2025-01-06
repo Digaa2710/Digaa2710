@@ -7,7 +7,7 @@ MERN Stack Developer
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [divyagandhi274@gmail.com](mailto:divyagandhi274@gmail.com )
 * 🧠  I'm learning  Data Analysis,ML
-* 🤝  I'm open to collaborating on Frontend development projects
+* 🤝  I'm open to collaborating on Fullstack development projects
 
 <a href="https://www.github.com/Digaa2710" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Digaa2710?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
