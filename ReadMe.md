@@ -5,7 +5,7 @@ MERN Stack Developer
 ------------------
 
 * 🌍  I'm based in Mumbai
-* ✉️  You can contact me at [divyagandhi274@gmail.com](mailto:gandhidivya2710@gmail.com )
+* ✉️  You can contact me at [gandhidivya2710@gmail.com](mailto:gandhidivya2710@gmail.com )
 * 🧠  I'm learning  Data Analysis,ML
 * 🤝  I'm open to collaborating on Fullstack development projects
 
