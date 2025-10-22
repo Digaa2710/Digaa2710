@@ -46,6 +46,7 @@ src="https://img.shields.io/github/followers/Digaa2710?logo=github&style=for-the
 ![VBA](https://img.shields.io/badge/VBA-217346.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Achievements
+
 [![An image of @digaa2710's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/digaa2710)](https://holopin.io/@digaa2710)
 
 ### Socials
