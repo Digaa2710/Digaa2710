@@ -14,10 +14,10 @@ src="https://img.shields.io/github/followers/Digaa2710?logo=github&style=for-the
 
 
 
-### Skills
+## Skills
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,15 +45,11 @@ src="https://img.shields.io/github/followers/Digaa2710?logo=github&style=for-the
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%2337768F.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### Achievements
+## Holopin Badges
 
 [![An image of @digaa2710's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/digaa2710)](https://holopin.io/@digaa2710)
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Digaa2710" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
+## Badges
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Digaa2710&theme=dark&no-frame=false&no-bg=false&margin-w=4)
