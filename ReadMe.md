@@ -6,8 +6,8 @@ MERN Stack Developer
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [gandhidivya2710@gmail.com](mailto:gandhidivya2710@gmail.com )
-* 🧠  I'm learning  Data Analysis,ML
-* 🤝  I'm open to collaborating on Fullstack development projects
+* 🧠  I build intelligent, end-to-end applications, combining a passion for **MERN/full-stack development** with advanced skills in **Natural Language Processing** and **Explainable AI**
+* 🤝  I'm open to collaborating on Fullstack development and AI/ML projects
 
 <a href="https://www.github.com/Digaa2710" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Digaa2710?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
