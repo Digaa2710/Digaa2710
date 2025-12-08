@@ -67,17 +67,4 @@ src="https://img.shields.io/github/followers/Digaa2710?logo=github&style=for-the
 
 [![An image of @digaa2710's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/digaa2710)](https://holopin.io/@digaa2710)
 
-## Badges
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Digaa2710&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
----
-
-## My GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Digaa2710&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Digaa2710's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Digaa2710&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digaa2710&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</p>
